@@ -1,8 +1,6 @@
-# lambda-architecture-demo
+# Developing Lambda Architecture
 
-This is repository for the code found in my series of blog posts on implementing the Lambda Architecture: 
-
-<h3 id="toc_1">This post is a part of a series on Lambda Architecture consisting of:</h3>
+<h3 id="toc_1">This is a repository for the code found in my series of blog posts on implementing the Lambda Architecture::</h3>
 <ul>
 	<li><a href="https://dorianbg.wordpress.com/2017/11/10/introduction-to-lambda-architecture/">Introduction to Lambda Architecture</a></li>
 	<li><a href="https://dorianbg.wordpress.com/2017/11/11/ingesting-realtime-tweets-using-apache-kafka-tweepy-and-python/">Implementing Data Ingestion using Apache Kafka, Tweepy</a></li>
